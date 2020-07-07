@@ -10,7 +10,7 @@ import java.util.Map;
 public class GetUsrer {
     public static void main(String[] args) {
         //读取文件路径
-        String path = "C:\\Users\\82010\\Desktop\\印度网站\\下载";
+        String path = "";
 
         Map<String, String> userMap = new HashMap<>();
 

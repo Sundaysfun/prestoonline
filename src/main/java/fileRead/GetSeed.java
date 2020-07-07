@@ -7,7 +7,7 @@ import java.util.Date;
 public class GetSeed {
     public static void main(String[] args) {
         //文件路径
-        String path = "C:\\Users\\82010\\Desktop\\印度网站\\";
+        String path = "";
         //文件名
         String fileName = "fileweb.txt";
         //搜索关键字

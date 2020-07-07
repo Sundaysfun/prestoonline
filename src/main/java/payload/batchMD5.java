@@ -10,13 +10,14 @@ import java.net.URLEncoder;
 
 /**
  * 字典批量加密md5
+ * 暂时未做反爬虫处理，会被禁ip
  */
 public class batchMD5 {
     public static void main(String[] args) {
         //字典路径
-        String path = "F:\\猿\\网络安全\\破解字典\\test1";
+        String path = "F:test1";
         //输出路径
-        String output = "F:\\猿\\网络安全\\破解字典\\MD5\\test1.txt";
+        String output = "F:test1.txt";
         //计数器
         int count = 0;
 
